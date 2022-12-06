@@ -1,0 +1,4 @@
+https://github.com/buildspace/buildspace-buildoors/tree/solution-core-2-candy-machine
+
+git clone:
+https://github.com/buildspace/buildspace-buildoors.git
